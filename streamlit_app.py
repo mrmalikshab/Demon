@@ -38,7 +38,7 @@ def render_live_console():
 st.markdown("""
 <style>
 .stApp {
-    background: url('https://i.postimg.cc/qq41rSVP/44e54h810v9b1.jpg') no-repeat center center fixed !important;
+    background: url('https://i.ibb.co/Q7Tcg8Mm/IMG-20260405-WA0020.jpg') no-repeat center center fixed !important;
     background-size: cover !important;
     background-position: center !important;
     background-attachment: fixed !important;
