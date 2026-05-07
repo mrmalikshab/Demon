@@ -65,7 +65,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 style="text-align:center;">🤍❤️R̺K̺_R̺A̺J̺A̺ E̺2̺E̺E̺🌹</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align:center;">🤍❤️Mr Amar 🔥</h1>', unsafe_allow_html=True)
 
 
 # ---------------- SESSION ----------------
